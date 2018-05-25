@@ -3,7 +3,7 @@ This privacy policy governs your use of the software application Synclly (“App
 
 What information does the Application obtain and how is it used?
 
-**User Provided Information** 
+## User Provided Information 
 The Application obtains the information you provide when you download and register the Application. Registration with us is mandatory in order to be able to use the basic features of the Application.
 When you register with us and use the Application, you generally provide (a) your name, age, email address, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchases within the Application, and; (e) information you enter into our system when using the Application, such as contact information.
 We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.
